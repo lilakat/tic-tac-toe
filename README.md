@@ -1,6 +1,6 @@
 # tic-tac-toe game
 
-console and pygame based game of tic-tac-toe with multiplayer and single player against random moves (1), random but with taking blocking/winning moves (2), and an algorithm designed to never lose that was designed with @Litz-z (3). 
+A console and pygame based game of tic-tac-toe with multiplayer and single player against random moves (1), random but with taking blocking/winning moves (2), and an algorithm designed to never lose that was designed with @Litz-z (3). 
 
 some stats just for fun:
 tic-tac-toe tests: 1000001 times each
